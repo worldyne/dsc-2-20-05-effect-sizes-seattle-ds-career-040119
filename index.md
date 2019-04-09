@@ -108,7 +108,7 @@ male_height
 
 
 
-    <scipy.stats._distn_infrastructure.rv_frozen at 0x106d04630>
+    <scipy.stats._distn_infrastructure.rv_frozen at 0x10a8085f8>
 
 
 
